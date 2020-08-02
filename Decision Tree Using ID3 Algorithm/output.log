@@ -1,0 +1,278 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.12.13)  2 AUG 2020 06:18
+entering extended mode
+ \write18 enabled.
+ %&-line parsing enabled.
+**main.tex
+(/compile/main.tex
+LaTeX2e <2019-10-01> patch level 3
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+(/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+)) (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/iftex/ifxetex.sty
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count88
+\Gm@cntv=\count89
+\c@Gm@tempcnt=\count90
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+) (/compile/output.aux)
+\openout1 = `output.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=57.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count91
+\scratchdimen=\dimen113
+\scratchbox=\box27
+\nofMPsegments=\count92
+\nofMParguments=\count93
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count94
+\MPscratchDim=\dimen114
+\MPnumerator=\count95
+\makeMPintoPDFobject=\count96
+\everyMPtoPDFconversion=\toks17
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2019-11-30 v2.9 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 7.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 7.
+<rtu.jpeg, id=1, 223.83624pt x 226.8475pt>
+File: rtu.jpeg Graphic file (type jpg)
+<use rtu.jpeg>
+Package pdftex.def Info: rtu.jpeg  used on input line 12.
+(pdftex.def)             Requested size: 223.8357pt x 226.84694pt.
+[1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} </compil
+e/rtu.jpeg>] (/compile/output.toc)
+\tf@toc=\write3
+\openout3 = `output.toc'.
+
+[2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 27.
+[3] [4]
+<id3.png, id=24, 259.56975pt x 255.95625pt>
+File: id3.png Graphic file (type png)
+<use id3.png>
+Package pdftex.def Info: id3.png  used on input line 44.
+(pdftex.def)             Requested size: 337.44063pt x 332.74307pt.
+<id3_test_1.png, id=26, 205.36725pt x 59.62276pt>
+File: id3_test_1.png Graphic file (type png)
+<use id3_test_1.png>
+Package pdftex.def Info: id3_test_1.png  used on input line 46.
+(pdftex.def)             Requested size: 266.97739pt x 77.50957pt.
+[5 </compile/id3.png> </compile/id3_test_1.png>]
+<pima_indian_diabetes.png, id=32, 450.483pt x 429.40425pt>
+File: pima_indian_diabetes.png Graphic file (type png)
+<use pima_indian_diabetes.png>
+Package pdftex.def Info: pima_indian_diabetes.png  used on input line 49.
+(pdftex.def)             Requested size: 450.48189pt x 429.40318pt.
+[6 </compile/pima_indian_diabetes.png>]
+Overfull \hbox (30.0279pt too wide) in paragraph at lines 128--128
+[]              \OT1/cmtt/m/n/10 num = len(df[attribute][df[attribute]==variabl
+e][df[Class] ==target_variable])[] 
+ []
+
+[7] [8]
+<Screenshot (118).png, id=45, 610.07925pt x 237.2865pt>
+File: Screenshot (118).png Graphic file (type png)
+<use Screenshot (118).png>
+Package pdftex.def Info: Screenshot (118).png  used on input line 131.
+(pdftex.def)             Requested size: 426.79134pt x 166.00165pt.
+[9 </compile/Screenshot (118).png>]
+<Screenshot (119).png, id=50, 465.53925pt x 507.69675pt>
+File: Screenshot (119).png Graphic file (type png)
+<use Screenshot (119).png>
+Package pdftex.def Info: Screenshot (119).png  used on input line 133.
+(pdftex.def)             Requested size: 426.79134pt x 465.44435pt.
+[10 </compile/Screenshot (119).png>]
+<Screenshot (121).png, id=55, 336.65775pt x 512.51476pt>
+File: Screenshot (121).png Graphic file (type png)
+<use Screenshot (121).png>
+Package pdftex.def Info: Screenshot (121).png  used on input line 135.
+(pdftex.def)             Requested size: 426.79134pt x 649.72908pt.
+[11 </compile/Screenshot (121).png>]
+<Screenshot (122).png, id=60, 410.13225pt x 512.51476pt>
+File: Screenshot (122).png Graphic file (type png)
+<use Screenshot (122).png>
+Package pdftex.def Info: Screenshot (122).png  used on input line 137.
+(pdftex.def)             Requested size: 426.79134pt x 533.33904pt.
+[12 </compile/Screenshot (122).png>]
+<Screenshot (123).png, id=65, 369.17924pt x 511.31026pt>
+File: Screenshot (123).png Graphic file (type png)
+<use Screenshot (123).png>
+Package pdftex.def Info: Screenshot (123).png  used on input line 139.
+(pdftex.def)             Requested size: 426.79134pt x 591.1308pt.
+[13 </compile/Screenshot (123).png>]
+<Screenshot (124).png, id=71, 342.68025pt x 517.33275pt>
+File: Screenshot (124).png Graphic file (type png)
+<use Screenshot (124).png>
+Package pdftex.def Info: Screenshot (124).png  used on input line 141.
+(pdftex.def)             Requested size: 426.79134pt x 644.35144pt.
+[14 </compile/Screenshot (124).png>]
+<Screenshot (125).png, id=76, 331.83975pt x 525.76425pt>
+File: Screenshot (125).png Graphic file (type png)
+<use Screenshot (125).png>
+Package pdftex.def Info: Screenshot (125).png  used on input line 144.
+(pdftex.def)             Requested size: 426.79134pt x 676.25714pt.
+[15 </compile/Screenshot (125).png>]
+<Screenshot (126).png, id=81, 307.74976pt x 512.51476pt>
+File: Screenshot (126).png Graphic file (type png)
+<use Screenshot (126).png>
+Package pdftex.def Info: Screenshot (126).png  used on input line 145.
+(pdftex.def)             Requested size: 426.79134pt x 710.82936pt.
+
+Overfull \vbox (13.72249pt too high) has occurred while \output is active []
+
+[16 </compile/Screenshot (126).png>]
+<Screenshot (127).png, id=86, 311.36325pt x 508.90125pt>
+File: Screenshot (127).png Graphic file (type png)
+<use Screenshot (127).png>
+Package pdftex.def Info: Screenshot (127).png  used on input line 146.
+(pdftex.def)             Requested size: 426.79134pt x 697.60208pt.
+
+Overfull \vbox (0.49521pt too high) has occurred while \output is active []
+
+[17 </compile/Screenshot (127).png>]
+<Screenshot (128).png, id=91, 323.40825pt x 514.92375pt>
+File: Screenshot (128).png Graphic file (type png)
+<use Screenshot (128).png>
+Package pdftex.def Info: Screenshot (128).png  used on input line 147.
+(pdftex.def)             Requested size: 426.79134pt x 679.5286pt.
+[18 </compile/Screenshot (128).png>]
+<Screenshot (129).png, id=96, 302.93175pt x 426.99525pt>
+File: Screenshot (129).png Graphic file (type png)
+<use Screenshot (129).png>
+Package pdftex.def Info: Screenshot (129).png  used on input line 148.
+(pdftex.def)             Requested size: 426.79134pt x 601.62686pt.
+[19 </compile/Screenshot (129).png>] [20] (/compile/output.aux) ) 
+Here is how much of TeX's memory you used:
+ 1648 strings out of 492164
+ 23128 string characters out of 6125314
+ 94497 words of memory out of 5000000
+ 6017 multiletter control sequences out of 15000+600000
+ 8063 words of font info for 29 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 30i,5n,23p,197b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texl
+ive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
+019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/201
+9/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on /compile/output.pdf (20 pages, 380463 bytes).
+PDF statistics:
+ 135 PDF objects out of 1000 (max. 8388607)
+ 74 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+

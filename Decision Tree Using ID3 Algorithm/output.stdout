@@ -1,0 +1,8 @@
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex)
+ \write18 enabled.
+entering extended mode
+=== TeX engine is 'pdfTeX'
+Latexmk: All targets () are up-to-date
+qpdf exit code=0
+Renaming optimised file to output.pdf

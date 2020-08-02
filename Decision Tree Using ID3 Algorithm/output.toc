@@ -1,0 +1,6 @@
+\contentsline {section}{\numberline {1}Problem Statement}{3}%
+\contentsline {section}{\numberline {2}ID3 Algorithm}{4}%
+\contentsline {section}{\numberline {3}Training Set}{5}%
+\contentsline {section}{\numberline {4}Program}{7}%
+\contentsline {section}{\numberline {5}Output}{9}%
+\contentsline {section}{\numberline {6}Result}{20}%

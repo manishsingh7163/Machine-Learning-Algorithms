@@ -1,0 +1,14 @@
+Can't exec "/usr/bin/run-chktex.sh": No such file or directory at (eval 9) line 153, <GEN0> chunk 1.
+Latexmk: This is Latexmk, John Collins, 18 June 2019, version: 4.65.
+Latexmk: Changing directory to '/compile/'
+Rule 'pdflatex': File changes, etc:
+   Changed files, or newly in use since previous run(s):
+      'main.tex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=batchmode -recorder -output-directory="/compile" --jobname="output"  "main.tex"'
+------------
+Latexmk: Log file says output to 'output.pdf'
+Latexmk: Undoing directory change
